@@ -22,6 +22,7 @@ const tokenModule = sdk.getTokenModule(
 // APP Address = 0xE9ad9F3BC88f782808B9f92D7FF50abae7C0C03d
 // bundle/ERC-1155 address = 0x5ecFd8E6F910D46eD11A3c4dc2bC7a1c0cfe51F4
 // token/ERC-20 address = 0xaB959c4b8e42aFE3f3F4a250DFe2D50165383e55
+// Vote Module address = 0x14B166c28d5e32091871f1d4FE7C9DeE7bE660dc
 
 const App = () => {
   // Use the connectWallet hook thirdweb gives us.
